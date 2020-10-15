@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, Gil here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Linkedin Badge](https://img.shields.io/badge/-gpenner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilhrpenner)](https://www.linkedin.com/in/gilhrpenner)
+[![Gmail Badge](https://img.shields.io/badge/-gilhrpenner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilhrpenner04@gmail.com)](mailto:gilhrpenner@gmail.com)
 
-<!--
-**gilhrpenner/gilhrpenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year **B.Sc. COMPUTER SCIENCE MAJOR (Co-op)** at University of Manitoba. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development and team work. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
-Here are some ideas to get you started:
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilhrpenner&layout=compact">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [BIA Assistant](https://biatw.com) an event-driven, high-performance intelligent bot for Tribal Wars
+- 🌱 I’m currently learning Vue.js
+- 💬 Ask me about accessibility and how we can democratize the technology for **EVERYONE**
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: my right arm is made of steal ;)
