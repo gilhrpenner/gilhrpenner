@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about accessibility and how we can democratize the technology for **EVERYONE**
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: my right arm is made of steal ;)
+- ⚡ Fun fact: my right arm is made of steel ;)
