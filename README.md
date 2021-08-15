@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilhrpenner&layout=compact">
 
 - 🔭 I’m currently working on [BIA Assistant](https://bia.gg) an event-driven, high-performance intelligent bot for Tribal Wars
-- 🌱 I’m currently mastering Vue.js
+- 🌱 In a deep love with Vue.js
 - 💬 Ask me about accessibility and how we can democratize the technology for **EVERYONE**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: my right arm is made of steel ;)
