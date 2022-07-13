@@ -6,8 +6,8 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilhrpenner&layout=compact">
 
-- 🔭 I’m currently working on a co-op work term at Greenline POS
-- 🌱 In a deep love with TypeScript, Vue.js and Quasar Framework
+- 🔭 I’m currently working at Greenline as a co-op student on my final work term
+- 🌱 In a deep love with TypeScript and React Native
 - 💬 Ask me about accessibility and how we can democratize the technology for **EVERYONE**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: my right arm is made of steel ;)
