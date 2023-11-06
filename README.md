@@ -4,10 +4,8 @@
 
 4th year **B.Sc. COMPUTER SCIENCE MAJOR (Co-op)** at University of Manitoba. Fast learner and eager to explore new technologies. My goal is to democratize the technology and push everyone so together we can build a more accessible internet.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilhrpenner&layout=compact">
-
-- 🔭 I’m currently working at Greenline as a co-op student on my final work term
-- 🌱 In a deep love with TypeScript and React Native
+- 🔭 I’m currently working at APOLLO Insurance as a Frontend Engineer
+- 🌱 In a deep love with the t3 stack
 - 💬 Ask me about accessibility and how we can democratize the technology for **EVERYONE**
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: my right arm is made of steel ;)
+- ⚡ Fun fact: my right arm is made of steel, like, for real ;)
