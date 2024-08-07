@@ -1,11 +1,44 @@
 ### Hey, Gil Henrique here 🖖
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilhrpenner)
 [![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gilpenner@proton.me)
 
-4th year **B.Sc. COMPUTER SCIENCE MAJOR (Co-op)** at University of Manitoba. Fast learner and eager to explore new technologies. My goal is to democratize the technology and push everyone so together we can build a more accessible internet.
+---
 
-- 🔭 I’m currently working at APOLLO Insurance as a Frontend Engineer
-- 🌱 In a deep love with the t3 stack
-- 💬 Ask me about accessibility and how we can democratize the technology for **EVERYONE**
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: my right arm is made of steel, like, for real ;)
+👨‍💻 **About Me:**
+
+🎓 Graduated from **University of Manitoba**, B.Sc. Computer Science Major (Co-op).
+
+🌐 My goal is to **democratize the internet**. I'm passionate about **UI/UX** and making the web more accessible to **EVERYONE**. Let's make the internet a better place for all! 💪✨
+
+---
+
+💼 **Tech Stack:**
+
+- **Frontend:** React, React Native, Vue, Svelte-ish??
+- **Backend:** tRPC, Next.js
+- **Styling:** Tailwind CSS is my bae 🩷
+
+---
+
+🚀 **What I Love:**
+
+- The **T3 Stack** - tRPC really improves the developer experience!
+- 🛠️ Exploring new technologies and frameworks
+- 🎨 Talking about **accessibility** and **inclusive design**
+
+---
+
+🌈 **Fun Facts:**
+
+- I have a soft spot for **Tesla, AI, ML, and Settlers of Catan** 🚗🤖
+- My favorite color is **purple** 💜 is so is my Tesla ;)
+- I enjoy working on **DIY projects** like building a lawn mower with Raspberry Pi and 3D printing parts 🛠️🤓
+
+---
+
+📫 **Get in Touch:**
+
+Feel free to reach out if you want to chat about tech, accessibility, or just to say hi! 😊
+
+---
+
+Thanks for stopping by! Have a great day! 🌟
