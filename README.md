@@ -30,7 +30,7 @@
 🌈 **Fun Facts:**
 
 - I have a soft spot for **Tesla, AI, ML, and Settlers of Catan** 🚗🤖
-- My favorite color is **purple** 💜 is so is my Tesla ;)
+- My favorite color is **purple** 💜 so is my Tesla ;)
 - I enjoy working on **DIY projects** like building a lawn mower with Raspberry Pi and 3D printing parts 🛠️🤓
 
 ---
