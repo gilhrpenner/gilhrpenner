@@ -3,41 +3,52 @@
 
 ---
 
-👨‍💻 **About Me:**
+👨‍💻 **About Me**
 
-🎓 Graduated from **University of Manitoba**, B.Sc. Computer Science Major (Co-op).
-
-🌐 My goal is to **democratize the internet**. I'm passionate about **UI/UX** and making the web more accessible to **EVERYONE**. Let's make the internet a better place for all! 💪✨
+🎓 B.Sc. Computer Science (Co-op), **University of Manitoba**  
+🌐 Mission: **democratize the internet** with UI/UX that actually respects humans (and keyboards)  
+🧠 I like building products that feel simple on the outside and mildly unhinged (in a good way) on the inside
 
 ---
 
-💼 **Tech Stack:**
+🧰 **Currently obsessed with**
+
+- ⚡ **Convex** (reactive everything, fewer tears)
+- 🧪 **TanStack Start** (because routing should not be a side quest)
+- 🧱 TypeScript (my emotional support compiler)
+- 🎨 Accessibility + inclusive design (shipping is cool, shipping for everyone is cooler)
+
+---
+
+🧪 **Tech Stack I reach for**
 
 - **Frontend:** React, React Native, Vue, Svelte-ish??
-- **Backend:** tRPC, Next.js
+- **Backend:** Convex, tRPC, Next.js (yes, I collect backends like Pokémon)
 - **Styling:** Tailwind CSS is my bae 🩷
+- **Infra vibes:** serverless-ish, queues/jobs, webhooks, “pls don’t wake me up at 3am” reliability
 
 ---
 
-🚀 **What I Love:**
+🚀 **What I like building**
 
-- The **T3 Stack** - tRPC really improves the developer experience!
-- 🛠️ Exploring new technologies and frameworks
-- 🎨 Talking about **accessibility** and **inclusive design**
-
----
-
-🌈 **Fun Facts:**
-
-- I have a soft spot for **Tesla, AI, ML, and Settlers of Catan** 🚗🤖
-- My favorite color is **purple** 💜 so is my Tesla ;)
-- I enjoy working on **DIY projects** like building a lawn mower with Raspberry Pi and 3D printing parts 🛠️🤓
+- Multi-tenant SaaS platforms with real permissions (not “admin = god mode”)
+- Workflow tooling, dashboards, Kanban, automations, integrations
+- Anything that turns messy processes into clean UIs
 
 ---
 
-📫 **Get in Touch:**
+🌈 **Fun Facts**
 
-Feel free to reach out if you want to chat about tech, accessibility, or just to say hi! 😊
+- I have a soft spot for **Tesla, AI/ML, and Settlers of Catan** 🚗🤖
+- Favorite color: **purple** 💜 so is my Tesla ;)
+- I will refactor “later” (narrator: later becomes a full rewrite)
+
+---
+
+📫 **Get in Touch**
+
+If you want to chat about Convex, TanStack, accessibility, SaaS architecture, or just say hi, hit me up 👇  
+[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gilpenner@proton.me)
 
 ---
 
